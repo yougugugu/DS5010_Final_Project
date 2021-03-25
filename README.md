@@ -1,3 +1,3 @@
 # DS5010_Final_Project
-Lin Zhu
-Yihao Gu 001305641
+Lin Zhu   001066973
+Yihao Gu  001305641
