@@ -15,7 +15,7 @@ Team member:
 
 ## Introduction
 
-Our goal is to design a linear regression package, which implements most parts of a mutiple linear regression based on ordinary least square. This package provides caculation of each parameter and coefficient of linear regression in ***lr.py*** module including **t-test**, **f-test**, **Rsquared** and **SST, SSE, SSR**. It also contains functions in ***da.py*** module to help process data, like **read_data()** to read data from loacl, **partition()** to split dataset into training and validationset, **select_byindex(), select_byname()** to slice dataset. Additionally, ***diagnose.py*** module provides diagnostic tools for linear regreesion including **leverage()**, **cooks_distance()** and **plot()** to help diagnose linear regression based on different plots.
+Our goal is to design a linear regression package, which implements most parts of a mutiple linear regression based on ordinary least square. This package provides caculation of each parameter and coefficient of linear regression in ```lr.py``` module including **t-test**, **f-test**, **Rsquared** and **SST, SSE, SSR**. It also contains functions in ```da.py``` module to help process data, like **read_data()** to read data from local, **partition()** to split dataset into training and validationset, **select_byindex(), select_byname()** to slice dataset by columns. Additionally, ```diagnose.py``` module provides diagnostic tools for linear regreesion including **leverage()**, **cooks_distance()** and **plot()** to help diagnose linear regression based on different plots.
 
 
 ## Running the tests
